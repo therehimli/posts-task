@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Dio reiciendis neqit nihil cupid",
+      "body": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime dolor, praesentium debitis sequi optio laudantium, esse, odio asperiores corporis aut nisi quam a? Inventore mollitia, eos velit omnis earum ipsam repellat doloribus, ",
+      "favorite": false
+    },
+    {
+      "id": 2,
+      "title": "harum dolorum nostrum ipsa reiciendis totam ",
+      "body": " Lorem me ipsum dolor sit amet consectetur adipisicing elit. Maxime dolor, praesentium debitis sequi optio laudantium, esse, odio asperiores corporis aut nisi quam a? Inventore mollitia, eos velit omnis earum ipsam repellat doloribus, ",
+      "favorite": false
+    },
+    {
+      "id": 3,
+      "title": "doloribus impedit rem sunt mollitia quod error ab fuga numquam quas? Aperiam, repellendus!",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Commodi voluptatum eum voluptate mollitia earum cum, hic ducimus laborum similique! Illum quibusdam placeat dolorem!",
+      "favorite": false
+    },
+    {
+      "id": 4,
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis facere, ",
+      "body": "i autem sit quidem iusto eos. Qui laudantium architecto, tempora aliquid delectus optio pariatur esse placeat laborum ipsum explicabo dolores dolorum modi laboriosam corrupti eveniet, deleniti tenetur dolore ipsam consequuntur ab labore rem, quisquam minima? Labore incidunt aspernatur laborum reiciendis id autem aperiam molestias nam odio f",
+      "favorite": false
+    },
+    {
+      "id": 5,
+      "title": "dae quia, quam temporibus mollitia ex dignissimos. Vitae veritatis natus, consequatur fugiat cob",
+      "body": "uis dolores accusamus, est omnis nam incidunt aut corporis amet voluptates voluptate numquam veritatis ducimus non totam. Aspernatur minima ullam molestias animi cumque blanditiis commodi placeat provident tempora ducimus dolorem facere fuga laboriosa",
+      "favorite": false
+    },
+    {
+      "id": 6,
+      "title": "Voluptate debitis volupt",
+      "body": "quam voluptatem accusamus odio reiciendis neque labore cum, nobis veniam. Voluptate debitis voluptates dolore tenetur reiciendis, reprehenderit nihil cupiditate, nobis dignissimos accusamus sequi perferendis beatae id assumenda illum, quis nisi dolorem iure soluta amet nostrum. Nobis nemo magni veritatis. Dolorem animi quisquam nihil perferendis veniam voluptatum quas omnis voluptatem, modi porro, dolores, eveniet cum repellendus corrupti commodi minus. Velit nobis in magnam deleniti unde, quisquam aut fugiat quibusdam officia, id aspernatur omnis labore a",
+      "favorite": false
+    }
+  ],
+  "favorites": []
+}
